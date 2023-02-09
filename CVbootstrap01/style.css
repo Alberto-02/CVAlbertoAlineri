@@ -22,6 +22,7 @@
     width: 250px;
 }
 
+/*
 .genitore{    
     width: 200px;
     top: 50%;
@@ -29,7 +30,7 @@
     text-align: left;
     justify-content: center;
     margin: auto;
-}
+} */
 
 .pfp{    
     background-position: center;
@@ -37,10 +38,13 @@
 }
 
 .img-button{
-    width: 90px;
-    height: 90px;
+    width: 3rem;
+    height: 3rem;
     background-size: contain;
     background-color: #0072b1;
-    margin: 10;
+    margin-right: 2rem;
 }
 
+body{
+    background-color: #95a49f;
+}
