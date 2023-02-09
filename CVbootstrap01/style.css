@@ -37,11 +37,10 @@
 }
 
 .img-button{
-    width: 150px;
-    height: 150px;
+    width: 90px;
+    height: 90px;
     background-size: contain;
-    top: 100%;
-    left: 100%;
-    margin: 50;
+    background-color: #0072b1;
+    margin: 10;
 }
 
