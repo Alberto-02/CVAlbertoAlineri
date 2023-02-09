@@ -36,3 +36,12 @@
     background-size: 100%
 }
 
+.img-button{
+    width: 150px;
+    height: 150px;
+    background-size: contain;
+    top: 100%;
+    left: 100%;
+    margin: 50;
+}
+
