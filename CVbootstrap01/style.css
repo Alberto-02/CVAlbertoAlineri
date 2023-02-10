@@ -22,7 +22,8 @@
     width: 250px;
 }
 
-/*
+/* not in use 
+
 .genitore{    
     width: 200px;
     top: 50%;
@@ -37,6 +38,8 @@
     background-size: 100%
 }
 
+
+/* linkedin button */
 .img-button{
     width: 3rem;
     height: 3rem;
@@ -46,5 +49,18 @@
 }
 
 body{
-    background-color: #95a49f;
+    background-color: #bec4c2;
+}
+
+/* loghi titoli studio */
+.col-6{
+    width: 20%;
+    height: 30%; 
+    border-left: 2rem;   
+}
+
+/* titoli di studio */
+.col{
+    font-size: 140%;
+    text-align: left ;
 }
