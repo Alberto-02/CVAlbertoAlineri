@@ -1,0 +1,66 @@
+.nav-link{
+    color: #fff;
+}
+
+.nav-link:hover{
+    color: #1ace89
+}
+
+.navbar-brand:hover{
+    color: #1ace89
+}
+
+.navbar-brand{
+    color: #1ace89
+}
+
+.navbar-text{
+    color: #fff;
+}
+
+.Homepage{
+    width: 250px;
+}
+
+/* not in use 
+
+.genitore{    
+    width: 200px;
+    top: 50%;
+    left: 50%;
+    text-align: left;
+    justify-content: center;
+    margin: auto;
+} */
+
+.pfp{    
+    background-position: center;
+    background-size: 100%
+}
+
+
+/* linkedin button */
+.img-button{
+    width: 3rem;
+    height: 3rem;
+    background-size: contain;
+    background-color: #0072b1;
+    margin-right: 2rem;
+}
+
+body{
+    background-color: #bec4c2;
+}
+
+/* loghi titoli studio */
+.col-6{
+    width: 20%;
+    height: 30%; 
+    border-left: 2rem;   
+}
+
+/* titoli di studio */
+.col{
+    font-size: 140%;
+    text-align: left ;
+}
