@@ -66,6 +66,14 @@ body{
 }
 
 .bass{
-    width: 200px;
-    height: 300px; 
+     width: 300px;
+     
+}
+
+.lista-contatti{
+    background-color: #bec4c2;
+}
+
+.login{
+    margin-left: 600px;
 }
