@@ -13,10 +13,8 @@ if($_SERVER["REQUEST_METHOD"] === "POST"){
         if($result->num_rows == 1){
             $row = $result->fetch_array(MYSQLI_ASSOC);
         }
+        
     }
 }
-
-
-
 
 ?>
